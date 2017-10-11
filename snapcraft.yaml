@@ -1,5 +1,5 @@
 name: packer-abacao
-version: 1.1.0
+version: master
 summary: Packer - Build Automated Machine Images
 description: |
   Packer is easy to use and automates the creation of any type of machine
