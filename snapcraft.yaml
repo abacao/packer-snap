@@ -9,7 +9,7 @@ description: |
   unlocking untapped potential and opening new opportunities.
 
 grade: stable
-confinement: classic
+confinement: strict
 
 apps:
   packer:
