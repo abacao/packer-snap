@@ -15,7 +15,6 @@ apps:
   packer:
     command: packer
     plugs: [home, network]
-    aliases: packer
 
 parts:
   packer:
